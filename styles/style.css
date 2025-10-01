@@ -1,1 +1,5 @@
-
+.card-img-top-4 {
+    object-fit: contain;
+    height: 200px;
+    
+}
